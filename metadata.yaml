@@ -1,0 +1,32 @@
+_repo: Charmides-and-Other-Poems_1031
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+tableOfContents: "Charmides -- Requiescat -- San Miniato -- Rome unvisited -- Humanitad\
+  \ -- Louis Napoleon -- Endymion -- Le jardin -- La mer -- Le panneau -- Les ballons\
+  \ -- Canzonet -- Le Jardin des Tuileries -- Pan: Double villanelle -- In the forest\
+  \ -- Symphony in yellow.\r\nSonnets: Helas! -- To Milton -- On the massacre of the\
+  \ Christians in Bulgaria -- Holy Week at Genoa -- Urbs sacra aeterna -- E tenebris\
+  \ -- At Verona -- On the sale by auction of Keats' love letters -- The new remorse."
+title: Charmides, and Other Poems
+url: http://www.gutenberg.org/ebooks/1031
