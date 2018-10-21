@@ -1,5 +1,5 @@
 _repo: Charmides-and-Other-Poems_1031
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Poetry'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: "Charmides -- Requiescat -- San Miniato -- Rome unvisited -- Humanitad\
   \ -- Louis Napoleon -- Endymion -- Le jardin -- La mer -- Le panneau -- Les ballons\
   \ -- Canzonet -- Le Jardin des Tuileries -- Pan: Double villanelle -- In the forest\
